@@ -5,5 +5,5 @@
 Initializing the wrapper instance 
 
 ```javascript
-	let wrapper = new Wrapper(config.API_key);
+	let wrapper = new Wrapper(your-api-key);
 ```
