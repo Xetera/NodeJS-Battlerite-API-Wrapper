@@ -1,0 +1,8 @@
+{
+    "API_base_url":"https://api.dc01.gamelockerapp.com/",
+    "name_resolver_base_url": "https://masterbattlerite.com/profile",
+    "player_lookup":"shards/global/players/",
+    "players_lookup": "https://api.dc01.gamelockerapp.com/shards/global/players"
+
+
+}
